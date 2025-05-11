@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "4ae2a065098c4c1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe2e7721606929cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78f4082ce03031e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "github/git-local-folder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git-local-folder"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4670f94aee2645f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e92c9d105191f424",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecbc65cbfbc32231",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a111520c20a9ae69",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "85cd7ebe0cec4b39",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "29edb23a6a0f2439",
+    "type": "split",
+    "children": [
+      {
+        "id": "8739607f9fa2bafc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2add1da7254db28b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "github/git-local-folder.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for git-local-folder"
+            }
+          },
+          {
+            "id": "10bfc1faa6d07a27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "github/git-local-folder.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from git-local-folder"
+            }
+          },
+          {
+            "id": "2ea1a7554e8bf373",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0688d83e16847249",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "github/git-local-folder.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of git-local-folder"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "78f4082ce03031e2",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "README.md",
+    "github/git-local-folder.md",
+    "github/git-ssh.md",
+    "github"
+  ]
+}

@@ -1,0 +1,6 @@
+# Obsidian files to ignore
+.obsidian/workspace.json
+.obsidian/workspace
+.obsidian/cache
+.trash/
+.DS_Store
