@@ -49,11 +49,11 @@ commit_and_push() {
 }
 
 # Repository 1 - Obsidian Vault
-REPO1_PATH="~/Documents/repos/obsidian-vaults/kate-and-her-stuff"
+REPO1_PATH="/Users/kate/Documents/repos/obsidian-vaults/kate-and-her-stuff"
 REPO1_NAME="kate-and-her-stuff"
 
 # Repository 2 - Your Second Repo
-REPO2_PATH="~/Documents/repos/obsidian-vaults/ds-ai-references"
+REPO2_PATH="/Users/kate/Documents/repos/obsidian-vaults/ds-ai-references"
 REPO2_NAME="ds-ai-references"
 
 # Process both repositories
