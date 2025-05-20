@@ -8,3 +8,4 @@ When documenting our applications and communicating with the community, we shoul
 1. Host - user-facing AI application that end-users interact with directly
 2. Client - component within the host application that manages communication with a specific MCP Server
 3. Server - external program or service that exposes capabilities (Tools, Resources, Prompts) via the MCP protocol
+
