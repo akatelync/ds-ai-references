@@ -68,6 +68,6 @@ It should show: `origin git@github.com:username/repository.git`
 
 ## Step 10: Set global configuration
 ```shell
-git config --global user.name "akatelync"
-git config --global user.email "castillo.akatelyn@gmail.com"
+git config --global user.name "your_username"
+git config --global user.email "your_email@example.com"
 ```
