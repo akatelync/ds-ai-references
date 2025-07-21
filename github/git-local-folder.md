@@ -1,4 +1,4 @@
-# Pushing a Local Folder to a New GitHub Repository
+g# Pushing a Local Folder to a New GitHub Repository
 
 ## Step 1: Navigate to your folder
 ```bash
